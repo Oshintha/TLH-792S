@@ -1,5 +1,7 @@
 # CAMSO TLH 792S Project Overview
 
+<img src="https://github.com/Oshintha/TLH-792S/assets/155742370/8ac1fed2-1eb3-4ee3-b5c5-3fe45f6f211f" width="80%" height="80%">
+
 <h3>Product Description:</h3>
 
 CAMSO TLH 792S, is an extreme-duty flat-free tire solution designed specifically for telehandlers. Engineered to excel in the most demanding environments, this solid tire offers optimized stability, durability, and comfort, ensuring flat-free operation and superior traction in extreme applications.
@@ -11,16 +13,10 @@ CAMSO TLH 792S, is an extreme-duty flat-free tire solution designed specifically
 - Optimized stability
 - Enhanced durability
 - Superior comfort
-  
-![image](https://github.com/Oshintha/TLH-792S/assets/155742370/b02ee26b-45eb-4eef-9da9-dbed3b0bc300)
-
-<h3>Tire Performance</h3>
-
-![image](https://github.com/Oshintha/TLH-792S/assets/155742370/3d71dff2-71f4-4547-9173-dd2ed7b9f489)
 
 <h3>Compound Layer distribution</h3>
 
-![image](https://github.com/Oshintha/TLH-792S/assets/155742370/09b58f5a-4802-4dfb-b1ab-469b67ece601)
+<img src="https://github.com/Oshintha/TLH-792S/assets/155742370/b580cb63-b46a-44b6-92b9-88973df9a1f8" width="400" height="400">
 
 <h3>Activities Undertaken:</h3>
 <p>Throughout the project, I spearheaded various critical tasks, including:</p>
