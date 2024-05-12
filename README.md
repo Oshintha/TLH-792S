@@ -2,7 +2,7 @@
 
 <h3>Product Description:</h3>
 
-CAMSO TLH 792S, formerly known as Solideal SolidAir TLH, is an extreme-duty flat-free tire solution designed specifically for telehandlers. Engineered to excel in the most demanding environments, this solid tire offers optimized stability, durability, and comfort, ensuring flat-free operation and superior traction in extreme applications.
+CAMSO TLH 792S, is an extreme-duty flat-free tire solution designed specifically for telehandlers. Engineered to excel in the most demanding environments, this solid tire offers optimized stability, durability, and comfort, ensuring flat-free operation and superior traction in extreme applications.
 
 <h3>Tire Features:</h3>
 
