@@ -21,9 +21,9 @@ CAMSO TLH 792S, is an extreme-duty flat-free tire solution designed specifically
 <h3>Activities Undertaken:</h3>
 <p>Throughout the project, I spearheaded various critical tasks, including:</p>
 
-- Tread Design
 - Conducting Manufacturing Feasibility Studies
 - Calculating Product Costs
+- Cost saving by changing the Materials
 - Evaluating Finite Element Analysis (FEA) Results
 - Performing Risk Analysis (DFMEA)
 - Engaging in Theoretical Calculations and Layout Designs
